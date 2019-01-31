@@ -1,0 +1,1 @@
+Zip dosyasýndaki klasörlerin hepsini dýþarý çýkarmayý unutmayýn ! Dosyalarýn hepsini çýkardýktan sonra zip dosyasýný ve bu readme dosyasýný silin!
